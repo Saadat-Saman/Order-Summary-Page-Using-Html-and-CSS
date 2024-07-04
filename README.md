@@ -19,7 +19,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### The challenge
 
-In this challenge, I have used Html and CSS to develop a order summary page.
+In this challenge, I have used Html and CSS to develop an order summary page.
 
 ### Screenshot
 
