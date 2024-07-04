@@ -29,9 +29,8 @@ In this challenge, I have used Html and CSS to develop a order summary page.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+- Solution URL: (https://github.com/Saadat-Saman/Order-Summary-Page-Using-Html-and-CSS)
+- Live Site URL:(https://order-summary-page-design.netlify.app/)
 
 
 ### Built with
